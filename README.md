@@ -3,9 +3,9 @@
 <h3 align="center"> UCI Student | Learning Full-Stack Development </h3>
 
 <p align="center">
-  <a href="https://github.com/Martin"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" /></a>
-  <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" /></a>
-  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square" /></a>
+  <a href="https://github.com/martinh726"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" /></a>
+  <a href="www.linkedin.com/in/martin-hernandez-46604b31b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" /></a>
+  <a href="mailto:mahernandez1665@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square" /></a>
 </p>
 
 ---
@@ -14,8 +14,7 @@
 
 - 🎓 **Undergraduate at UC Irvine** passionate about software and web development.  
 - 💡 Exploring both **frontend and backend** to become a full-stack dev.  
-- ⚙️ Like building projects and learning skills.
-  
+- 🧩 Always open to learning new tools, collaborating on projects, and contributing to open source.  
 ---
 
 ### 🛠️ Languages & Frameworks  

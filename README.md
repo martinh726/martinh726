@@ -10,11 +10,11 @@
 
 ---
 
-### 🧠 About Me  
+### About Me  
 
-- 🎓 **Undergraduate at UC Irvine** passionate about software and web development.  
-- 💡 Exploring both **frontend and backend** to become a full-stack dev.  
-- 🧩 Always open to learning new tools, collaborating on projects, and contributing to open source.  
+- **Undergraduate at UC Irvine** passionate about software and web development.  
+- Exploring both **frontend and backend** to become a full-stack dev.  
+- Always open to learning new tools, collaborating on projects, and contributing to open source.  
 ---
 
 ### 🛠️ Languages & Frameworks  
@@ -34,7 +34,7 @@
 
 ---
 
-### 🧰 Tools & Platforms  
+### Tools & Platforms  
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
@@ -47,4 +47,4 @@
 
 ---
 
-### 🔭 Currently Working On 
+### Currently Working On 

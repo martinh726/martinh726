@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/martinh726"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" /></a>
-  <a href="www.linkedin.com/in/martin-hernandez-46604b31b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" /></a>
+  <a href="https://www.linkedin.com/in/martin-hernandez-46604b31b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" /></a>
   <a href="mailto:mahernandez1665@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square" /></a>
 </p>
 
